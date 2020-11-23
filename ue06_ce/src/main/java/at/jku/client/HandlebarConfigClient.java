@@ -11,7 +11,8 @@ import java.net.http.HttpResponse;
 import java.text.MessageFormat;
 import java.util.List;
 import java.util.Scanner;
-
+//TESTCOMMIT
+//TEST
 public class HandlebarConfigClient {
     public static void main(String[] args) {
         final Scanner in = new Scanner(System.in);
